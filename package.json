@@ -1,0 +1,16 @@
+{
+  "name": "Test NTT Data",
+  "version": "1.0.0",
+  "description": "Test for process for QA Engineer using Cypress.io",
+  "scripts": {
+    "cy:run": "npx cypress run",
+    "cy:open": "npx cypress open"
+  },
+  "author": "Rivolier Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "cypress": "^14.4.0",
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
